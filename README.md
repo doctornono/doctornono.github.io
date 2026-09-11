@@ -1,4 +1,4 @@
-# dejavu.github.io
+# doctornono.github.io
 
 ### Gestionnaire de fichiers kodi: `https://doctornono.github.io`
 
@@ -13,7 +13,7 @@ Le dépôt Kodi officiel pour dejaVu est accessible dans cette source
 3. Ajouter l’URL : `https://doctornono.github.io/`.
 4. Donner un nom à la source, par exemple : `dejaVu`.
 5. Aller dans `Extensions > Installer depuis un fichier ZIP`.
-6. Ouvrir la source `DejaVu`.
+6. Ouvrir la source `dejaVu`.
 7. Installer `repository.dejavu-1.0.0.zip`.
 8. Aller dans `Extensions > Installer depuis un dépôt > Dépôt dejaVu`.
 9. Installer `dejaVu`.
